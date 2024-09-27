@@ -1,0 +1,42 @@
+#presentationContainer {
+  width: 80%;
+  p,
+  h2,
+  h1 {
+    font-family: 'PT Mono' !important;
+  }
+  h2 {
+    @apply text-transparent xl:text-5xl lg:text-3xl text-4xl max-lg:text-center;
+    background: linear-gradient(
+      to right,
+      var(--gradient-primary-color),
+      var(--gradient-second-color)
+    );
+    background-clip: text;
+  }
+  p {
+    @apply text-xl max-lg:text-base max-md:text-sm;
+    color: var(--primary-text-color);
+  }
+
+  .shadow-box-card {
+    @apply p-10 flex rounded-3xl max-h-96 max-md:max-h-52 max-md:p-5 overflow-y-hidden;
+    width: 100%;
+    box-shadow: 0px 0px var(--shadow-primary-size) 0px var(--shadow-primary-color);
+    background-color: var(--shadow-primary-bg);
+  }
+}
+.end-text {
+  @apply w-8 h-8 absolute -bottom-4 right-2/4 rounded-xl;
+  background-color: #b4fa1f;
+  animation: end-text-animation 1s infinite;
+}
+@keyframes end-text-animation {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}

@@ -1,0 +1,9 @@
+.navbar_container {
+  background-color: var(--bg-navbar-color);
+  border-bottom: 1px solid var(--border-primary-color);
+  height: 6vh;
+}
+
+.navbar_options {
+  color: var(--title-second-color);
+}
