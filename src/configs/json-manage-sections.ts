@@ -54,7 +54,15 @@ export const jsonManageSections = {
   ],
   arrayExperience: [
     {
-      id: 0,
+      id: 4,
+      date: 'text-date-bg',
+      role: 'text-role-bg',
+      projects: 'text-projects-bg',
+      technologies: 'text-technologies-bg',
+      tasks: 'text-tasks-bg',
+    },
+    {
+      id: 3,
       date: 'text-date-pe',
       role: 'text-role-pe',
       projects: 'text-projects-pe',
@@ -62,7 +70,7 @@ export const jsonManageSections = {
       tasks: 'text-tasks-pe',
     },
     {
-      id: 1,
+      id: 2,
       date: 'text-date-chibuleo',
       role: 'text-role-chibuleo',
       projects: 'text-projects-chibuleo',
@@ -70,7 +78,7 @@ export const jsonManageSections = {
       tasks: 'text-tasks-chibuleo',
     },
     {
-      id: 2,
+      id: 1,
       date: 'text-date-pa',
       role: 'text-role-pa',
       projects: 'text-projects-pa',
@@ -78,7 +86,7 @@ export const jsonManageSections = {
       tasks: 'text-tasks-pa',
     },
     {
-      id: 3,
+      id: 0,
       date: 'text-date-cato',
       role: 'text-role-cato',
       projects: 'text-projects-cato',

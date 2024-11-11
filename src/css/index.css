@@ -221,7 +221,7 @@ svg {
 }
 
 .profile-img {
-  @apply rounded-full -rotate-90;
+  @apply rounded-full;
   width: 200px;
   height: 200px;
 }
