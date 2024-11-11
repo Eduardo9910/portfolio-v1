@@ -29,8 +29,8 @@
   "text-date-chibuleo": "January 2022 - June 2023",
   "text-role-chibuleo": "Full-Stack Developer at COAC. Chibuleo",
   "text-projects-chibuleo": "Digital Account, Credit Propect, Refactor Mobiles apps, Payments App, Cloud Manage, Deploys",
-  "text-technologies-chibuleo": "Full-Stack Developer at COAC. Chibuleo",
-  "text-tasks-chibuleo": "Full-Stack Developer at COAC. Chibuleo",
+  "text-technologies-chibuleo": "Google Cloud, Firebase, React Native, JavaScript, C#, Finantial 2.0, Express, Node.js, MongoDB",
+  "text-tasks-chibuleo": "Cloud management, Develop new features, Create new flows, Create new visual accessibility, Improvements on UI & UX",
   "text-date-pa": "October 2021 - January 2022",
   "text-role-pa": "Software Programming Teacher",
   "text-projects-pa": "Trainer for a group of students in programming logic, Development of a website for presenting different learning units",
@@ -48,5 +48,10 @@
   "label-work-together": "We can work together",
   "text-porfolio": "A website to show my exprecience in differents companies",
   "label-prospector": "Prospector",
-  "text-prospector": "A mobile app to save credit propects based on them salary and business"
+  "text-prospector": "A mobile app to save credit propects based on them salary and business",
+  "text-date-bg": "October 2024 - Present",
+  "text-role-bg": "Full-Stack Developer at BoltGroup",
+  "text-projects-bg": "Dishio (menu management system and brand website management)",
+  "text-technologies-bg": "Next.js, Tailwind, TypeScript, Node.js, Prisma, PostgreSQL, Playwright, Strorybook",
+  "text-tasks-bg": "Maintenance of the system, Development of new features, Create new flows, Create new visual accessibility, Improvements on UI & UX, Refactorization of the code using patterns"
 }

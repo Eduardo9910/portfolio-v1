@@ -29,8 +29,8 @@
   "text-date-chibuleo": "Enero 2022 - Junio ​​2023",
   "text-role-chibuleo": "Desarrollador Full-Stack en COAC. ",
   "text-projects-chibuleo": "Cuenta digital, Prospectos de crédito, Refactorización de aplicaciones móviles, Aplicación de pagos, Gestión en la nube, Implementaciones",
-  "text-technologies-chibuleo": "Desarrollador Full-Stack en COAC. ",
-  "text-tasks-chibuleo": "Desarrollador Full-Stack en COAC. ",
+  "text-technologies-chibuleo": "Google Cloud, Firebase, React Native, JavaScript, C#, Finantial 2.0, Express, Node.js, MongoDB",
+  "text-tasks-chibuleo": "Gestión en la nube, Desarrollar nuevas funciones, Crear nuevos flujos, Crear nueva accesibilidad visual, Mejoras en UI y UX",
   "text-date-pa": "Octubre 2021 - Enero 2022",
   "text-role-pa": "Profesor de programación de software",
   "text-projects-pa": "Profesor de un grupo de estudiantes en lógica de programación, Desarrollo de un sitio web para presentar diferentes unidades de aprendizaje.",
@@ -48,5 +48,10 @@
   "text-porfolio": "Un sitio web para mostrar mi experiencia en diferentes empresas.",
   "text-presentation": "¡Hola! Soy un Desarrollador Front-End con 3 años de experiencia creando interfaces web pixel-perfect a partir de cualquier diseño. Me destaco en JavaScript y C#, y prefiero trabajar con React, React Native y Vue. Tengo experiencia trabajando para empresas en el extranjero, y estoy muy interesado en trabajar de forma remota. Mi filosofía es simplificar la vida a través de soluciones tecnológicas innovadoras. Fuera del trabajo, me encanta dibujar, hacer deporte y jugar videojuegos.",
   "label-prospector": "Prospector",
-  "text-prospector": "Una App movil que te permite guardar prospectos de credito basados en su salario y negocio"
+  "text-prospector": "Una App movil que te permite guardar prospectos de credito basados en su salario y negocio",
+  "text-date-bg": "Octubre 2024 - Presente",
+  "text-role-bg": "Desarrollador Full-Stack en BoltGroup",
+  "text-projects-bg": "Dishio (sistema de gestión de menús y gestión web de la marca)",
+  "text-technologies-bg": "Next.js, Tailwind, TypeScript, Node.js, Prisma, PostgreSQL, Playwright, Strorybook",
+  "text-tasks-bg": "Mantenimiento del sistema, Desarrollo de nuevas funciones, Crear nuevos flujos, Crear nueva accesibilidad visual, Mejoras en UI y UX, Refactorización del código utilizando patrones"
 }
